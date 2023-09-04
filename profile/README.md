@@ -29,7 +29,7 @@
 | [박영신](https://github.com/tkdwns414) | 동국대학교 컴퓨터공학전공   | 2022110233@dgu.ac.kr |
 | [윤영서](https://github.com/0seoYun) | 동국대학교 AI융합학부    | ys.yun@dgu.ac.kr |
 
-### Front-End Developer🖥️
+#### Front-End Developer🖥️
 | Name                                         | Major            | Email                |
 | -------------------------------------------- | --------------  | ----------------------- |
 | [류슬기](https://github.com/seulgigi)   | 동국대학교 산업시스템공학과  | lyuseulgi05@gmail.com  |

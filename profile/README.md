@@ -10,6 +10,8 @@
 익명 커뮤니티 "대나무숲"에서는 자유로운 내용을 담은 일반 제보가 가능하며, <br>
 니모 제보를 통해 직접 당신의 니모를 찾아볼 수 있어요! <br>
 
+<img src="https://github.com/DGU-bamboo/.github/assets/102219161/8ae9a6f5-f668-4aeb-9d31-ad89248075c5" width=400 height=400>
+<img src="https://github.com/DGU-bamboo/.github/assets/102219161/3cef4a1d-764f-4887-bbcf-88979ea75eda" width=400 height=400>
 
 ## 👋 About Team Bamboo
 
